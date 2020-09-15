@@ -17,6 +17,18 @@ Maybe there will be something in the future, if i ended rs school...
 ##### Contacts me:
 [Telegram](t.me/road2grave) | [VK](vk.com/road2grave) | [GitHub](https://github.com/qHollow)
 
+## For now
+So at that moment my **hard skills** are:
+✓ Git
+✓ Basic HTML
+✓ Basic CSS
+✓ Basic JS
+
+& **soft skills** are:
+✓ Stress-resistant
+✓ Quick learn
+✓ Perseverance
+
 ## Work expiriense
 * My first simple project (html&css) [site](https://admiring-poitras-de72bb.netlify.app/) | [Source](https://github.com/qHollow/maraphonHTML)
 
