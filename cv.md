@@ -15,7 +15,7 @@ Little information about me
 Maybe there will be something in the future, if i ended rs school...
 
 ##### Contacts me:
-[Telegram](t.me/road2grave) | [VK](vk.com/road2grave) | [GitHub](https://github.com/qHollow)
+[Telegram](https://t.me/road2grave) | [VK](https://vk.com/road2grave) | [GitHub](https://github.com/qHollow)
 
 ## For now
 So at that moment my **hard skills** are:  
