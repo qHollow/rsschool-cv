@@ -14,6 +14,9 @@ Little information about me
 ######  2. Works
 Maybe there will be something in the future, if i ended rs school...
 
+##### Contacts me:
+[Telegram](t.me/road2grave) | [VK](vk.com/road2grave) | [GitHub](https://github.com/qHollow)
+
 ## Work expiriense
 * My first simple project (html&css) [site](https://admiring-poitras-de72bb.netlify.app/) | [Source](https://github.com/qHollow/maraphonHTML)
 
