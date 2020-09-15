@@ -30,7 +30,7 @@ So at that moment my **hard skills** are:
 ✓ Perseverance
 
 ## Work expiriense
-* My first simple project (html&css) [site](https://admiring-poitras-de72bb.netlify.app/) | [Source](https://github.com/qHollow/maraphonHTML)
+* My first simple project (html&css) [site](https://admiring-poitras-de72bb.netlify.app/) [Source](https://github.com/qHollow/maraphonHTML)
 
 ## Education history
 **Educational establishments**:
