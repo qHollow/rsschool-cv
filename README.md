@@ -1,1 +1,1 @@
-https://qHollow.github.io/rsschool-cv/cv
+https://qhollow.github.io/rsschool-cv/cv
