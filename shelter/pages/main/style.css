@@ -10,28 +10,51 @@ h1, h2, h3, h4, h5, h6{
 
 .header__main-section{
   height: 908px;
-  background-color: grey;
-  display: flex;
-  justify-content: center;
-  
+  /* background: url(/assets/images/noise_transparent.png), radial-gradient(100% 215.42% at 0% 0%, #5B483A 0%, #262425 100%), #211F20; */
+  margin-top: 10px;
+  background-color: black;
 }
 
 .header__main-nav{
   width: 1200px;
-  height: 60px;
+  /* height: 60px; */
   display: flex;
-  /* justify-content: space-around; */
   border: 2px solid red;
+  margin-top: 60px;
+}
+
+.header__main-logo{
+  margin-right: 573px;
 }
 
 .header__nav-list{
   display: flex;
-  /* justify-content: center; */
+  align-items: center;
 }
 
 .header_nav-link{
-  padding: 0;
-  margin: 0;
+  text-decoration: none;
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 160%;
+  color: #CDCDCD;
+  margin-right: 35px;
+}
+
+.header_nav-link:first-child{
+  border-bottom: 3px solid #F1CDB3;
+  color: white;
+}
+
+.header_nav-link:hover{
+  cursor: pointer;
+  color: white;
+}
+
+.header_nav-link:last-child{
+  margin-right: 0px;
 }
 
 .main__about-shelter{
@@ -242,9 +265,75 @@ h1, h2, h3, h4, h5, h6{
 .main__help{
   height: 611px;
   background-color: white;
+  display: flex;
+  justify-content: center;
 }
 
+.main__help-content{
+  width: 1200px;
+  margin-top: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 
+.main__help-header{
+  font-family: Georgia;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 35px;
+  line-height: 130%;
+  letter-spacing: 0.06em;
+  color: #545454;
+  text-align: center;
+}
+
+.main__help-info{
+  width: 1026px;
+  margin-top: 60px;
+  /* margin-left: 87px; */
+}
+
+.main__help-list{
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.main__help-list-element{
+  
+}
+
+.main__help-list-margin-top{
+  margin-top: 50px;
+}
+
+.main__help-list-margin{
+  margin-right: 120px;
+}
+
+.main__help-list-content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.main__help-list-element-text{
+  margin-top: 30px;
+  font-family: Georgia;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 115%;
+  letter-spacing: 0.06em;
+  color: #545454;
+  margin-bottom: 0px;
+}
 /* flex flex flex */
 
 
