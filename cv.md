@@ -1,9 +1,8 @@
 Hello (* ^ ω ^)
 ===
-It's just a simple CV for rs school task, do not completly trust all information here (but **name & contacts are truthful** c:)
 ### Reshetnikov Dmitry
 Pre-alpha version of front-end developer for now.
-Little information about me
+Some information about me
 ----
 ###### 1. My goals
 * Learn HTML & CSS;
@@ -12,7 +11,7 @@ Little information about me
 * and many other things to be good front-end developer.
 
 ######  2. Works
-Maybe there will be something in the future, if i ended rs school...
+Maybe there will be something in the future...
 
 ##### Contacts me:
 [Telegram](https://t.me/road2grave) | [VK](https://vk.com/road2grave) | [GitHub](https://github.com/qHollow)
@@ -29,8 +28,10 @@ So at that moment my **hard skills** are:
 ✓ Quick learn  
 ✓ Perseverance  
 
-## Work expiriense
+## Work experience
 My first simple project (html&css) [site](https://admiring-poitras-de72bb.netlify.app/) [Source](https://github.com/qHollow/maraphonHTML)
+My other projects: (html/css/js)[site](https://qhollow-momentum.netlify.app/)
+[More info on GitHub](https://github.com/qHollow)
 
 ## Education history
 **Educational establishments**:
@@ -39,10 +40,10 @@ My first simple project (html&css) [site](https://admiring-poitras-de72bb.netlif
 3. University (2nd year of university)
 
 **Courses**:
-1. Free courses on [htmlacademia](http://htmlacademy.ru/)
+1. Free courses on [htmlacademy](http://htmlacademy.ru/)
 2. Basic courses on [code-basics](https://ru.code-basics.com/)
 3. Layout marathon [GoIT](https://goit.ua)
 4. Many simple tasks on [Codewars](codewars.com)
+5. [rs.school](rs.school)
+6. JS maraphone on [Glo academy](https://vk.com/glo_academy)
 
-# English
-Thanks google translate for this CV.
