@@ -1,35 +1,31 @@
 Hello (* ^ ω ^)
 ===
 ### Reshetnikov Dmitry
-Pre-alpha version of front-end developer for now.
+Alpha version of front-end developer for now.
 Some information about me
 ----
-###### 1. My goals
-* Learn HTML & CSS;
-* Learn JavaScript;
-* Learn React.js;
-* and many other things to be good front-end developer.
-
-######  2. Works
-Maybe there will be something in the future...
-
-##### Contacts me:
-[Telegram](https://t.me/road2grave) | [GitHub](https://github.com/qHollow)
 
 ## For now
 So at that moment my **hard skills** are:  
 ✓ Git  
-✓ Basic HTML  
+✓ HTML5  
 ✓ Basic CSS  
-✓ Basic JS  
+✓ JS
+✓ Vue && Vue-router (a little bit)  
+✓ Webpack  
+
 
 & **soft skills** are:  
 ✓ Stress-resistant  
 ✓ Quick learn  
 ✓ Perseverance  
 
+
+######  Works
+Maybe there will be something in the future...
+
 ## Work experience
-My first simple project (html&css) [site](https://admiring-poitras-de72bb.netlify.app/) [Source](https://github.com/qHollow/maraphonHTML)  
+My first simple project (html/css) [site](https://admiring-poitras-de72bb.netlify.app/) [Source](https://github.com/qHollow/maraphonHTML)  
 My other projects: (html/css/js)[site](https://qhollow-momentum.netlify.app/)  
 [More info on GitHub](https://github.com/qHollow)  
 
@@ -47,3 +43,6 @@ My other projects: (html/css/js)[site](https://qhollow-momentum.netlify.app/)
 5. [rs.school](rs.school)  
 6. JS maraphone on [Glo academy](https://vk.com/glo_academy)  
 
+
+##### Contacts me:  
+[Telegram](https://t.me/road2grave) | [GitHub](https://github.com/qHollow)  
